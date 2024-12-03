@@ -1,2 +1,1 @@
-# teach
-teaching materials developed for a range of epidemiology/ applied statistics sessions
+Teaching material developed for applied statistics/ epidemiology sessions as part of the UCL Respiratory Medicine PhD programme on research methods. Delivered 2024/2025. Funding: NIHR303125.
